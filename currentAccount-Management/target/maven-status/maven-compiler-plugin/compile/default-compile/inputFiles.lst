@@ -1,0 +1,9 @@
+C:\Users\NUF\eclipse-workspace\currentAccount-Management\src\main\java\com\currentAccount\amg\config\AccountsApConfig.java
+C:\Users\NUF\eclipse-workspace\currentAccount-Management\src\main\java\com\currentAccount\amg\config\AccountsInitialiserServlet.java
+C:\Users\NUF\eclipse-workspace\currentAccount-Management\src\main\java\com\currentAccount\amg\model\Account.java
+C:\Users\NUF\eclipse-workspace\currentAccount-Management\src\main\java\com\currentAccount\amg\model\TransactionDTO.java
+C:\Users\NUF\eclipse-workspace\currentAccount-Management\src\main\java\com\currentAccount\amg\model\AccountDTO.java
+C:\Users\NUF\eclipse-workspace\currentAccount-Management\src\main\java\com\currentAccount\amg\DAO\AccountsDAO.java
+C:\Users\NUF\eclipse-workspace\currentAccount-Management\src\main\java\com\currentAccount\amg\DAO\AccountsDAOImpl.java
+C:\Users\NUF\eclipse-workspace\currentAccount-Management\src\main\java\com\currentAccount\amg\rowMapper\AccountRowMapper.java
+C:\Users\NUF\eclipse-workspace\currentAccount-Management\src\main\java\com\currentAccount\amg\controllers\AccountsController.java
